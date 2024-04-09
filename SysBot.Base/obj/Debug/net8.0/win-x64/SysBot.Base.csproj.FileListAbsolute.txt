@@ -1,0 +1,13 @@
+C:\Users\Brand\Source\Repos\Sandwich\SysBot.Base\bin\Debug\net8.0\win-x64\SysBot.Base.deps.json
+C:\Users\Brand\Source\Repos\Sandwich\SysBot.Base\bin\Debug\net8.0\win-x64\SysBot.Base.dll
+C:\Users\Brand\Source\Repos\Sandwich\SysBot.Base\bin\Debug\net8.0\win-x64\SysBot.Base.pdb
+C:\Users\Brand\Source\Repos\Sandwich\SysBot.Base\obj\Debug\net8.0\win-x64\SysBot.Base.csproj.AssemblyReference.cache
+C:\Users\Brand\Source\Repos\Sandwich\SysBot.Base\obj\Debug\net8.0\win-x64\SysBot.Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brand\Source\Repos\Sandwich\SysBot.Base\obj\Debug\net8.0\win-x64\SysBot.Base.AssemblyInfoInputs.cache
+C:\Users\Brand\Source\Repos\Sandwich\SysBot.Base\obj\Debug\net8.0\win-x64\SysBot.Base.AssemblyInfo.cs
+C:\Users\Brand\Source\Repos\Sandwich\SysBot.Base\obj\Debug\net8.0\win-x64\SysBot.Base.csproj.CoreCompileInputs.cache
+C:\Users\Brand\Source\Repos\Sandwich\SysBot.Base\obj\Debug\net8.0\win-x64\SysBot.Base.sourcelink.json
+C:\Users\Brand\Source\Repos\Sandwich\SysBot.Base\obj\Debug\net8.0\win-x64\SysBot.Base.dll
+C:\Users\Brand\Source\Repos\Sandwich\SysBot.Base\obj\Debug\net8.0\win-x64\refint\SysBot.Base.dll
+C:\Users\Brand\Source\Repos\Sandwich\SysBot.Base\obj\Debug\net8.0\win-x64\SysBot.Base.pdb
+C:\Users\Brand\Source\Repos\Sandwich\SysBot.Base\obj\Debug\net8.0\win-x64\ref\SysBot.Base.dll
