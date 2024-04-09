@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pM86eTeZRBmLYA+Z3ybukv9r4XKdAtXV5/5VfI0U1kwG+BKLBr01icaox9BQFbFAas0/MrmCRTmbfW9w0zByOg==",
+  "dgSpecHash": "UEytrUOvllxnmWoNRvc4otMFPNlshwrIUy6AJ5a3l5C9/FaNV8IgzBIGgTeJymoNg5WQ6QaHjkltanLEeU0QNQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Brand\\Source\\Repos\\Sandwich\\SysBot.Pokemon.Discord\\SysBot.Pokemon.Discord.csproj",
+  "projectFilePath": "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\SysBot.Pokemon.Discord\\SysBot.Pokemon.Discord.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Brand\\.nuget\\packages\\discord.net\\3.14.1\\discord.net.3.14.1.nupkg.sha512",
     "C:\\Users\\Brand\\.nuget\\packages\\discord.net.commands\\3.14.1\\discord.net.commands.3.14.1.nupkg.sha512",

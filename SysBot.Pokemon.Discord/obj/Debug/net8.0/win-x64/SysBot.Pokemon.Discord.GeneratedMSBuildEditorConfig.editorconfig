@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SysBot.Pokemon.Discord
-build_property.ProjectDir = C:\Users\Brand\Source\Repos\Sandwich\SysBot.Pokemon.Discord\
+build_property.ProjectDir = C:\Users\Brand\source\repos\SV-SandwichBot\SysBot.Pokemon.Discord\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TsTHdyTTGL0bUdRzdYpp+dAEOx09zs3hkwiQu0vh5PGzo5sU99bfG50/Fp2Uo/G1QCLxl4WZesfuxkMKD0kmSA==",
+  "dgSpecHash": "JfcG4hPwRGPlkREOiOZhcr7NIYdxywwM8Ye3+olXi+bta0wYLqd1CvlIkyZYrZZt8CFdPKvi2WJDg5dYBWD+Kg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Brand\\Source\\Repos\\Sandwich\\SysBot.Pokemon.WinForms\\SysBot.Pokemon.WinForms.csproj",
+  "projectFilePath": "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\SysBot.Pokemon.WinForms\\SysBot.Pokemon.WinForms.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Brand\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\Brand\\.nuget\\packages\\discord.net\\3.14.1\\discord.net.3.14.1.nupkg.sha512",

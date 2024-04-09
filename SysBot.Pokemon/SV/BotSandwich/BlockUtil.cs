@@ -61,6 +61,14 @@ namespace SysBot.Pokemon.SV.BotSandwich
     {
         public static class SandwichDataBlocks
         {
+            public static DataBlock Overworld = new()
+            {
+                Name = "Overworld",
+                Key = 0x173304D8,
+                Type = SCTypeCode.Object,
+                IsEncrypted = true,
+                Size = 2490,
+            };
 
             public static readonly DataBlock KWildSpawnsEnabled = new()
             {

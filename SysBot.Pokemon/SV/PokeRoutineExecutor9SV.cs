@@ -85,6 +85,12 @@ namespace SysBot.Pokemon.SV
             return sav;
         }
 
+        public async Task<bool> IsInBattle(ulong offset, CancellationToken token)
+        {
+            var data = await SwitchConnection.ReadBytesMainAsync(offset, 1, token).ConfigureAwait(false);
+            return data[0] != 0x06;
+        }
+
         public async Task<SandwichMyStatus> GetTradePartnerMyStatus(IReadOnlyList<long> pointer, CancellationToken token)
         {
             SandwichMyStatus info = new();
@@ -259,11 +265,9 @@ namespace SysBot.Pokemon.SV
         }
 
         // Save Block Additions from TeraFinder/SandwichCrawler/sv-livemap
-        public async Task<object?> ReadBlock(DataBlock block, CancellationToken token)
+        public async Task<byte[]> ReadBlock(ulong baseBlock, DataBlock block, bool init, CancellationToken token)
         {
-            return block.IsEncrypted
-                ? await ReadEncryptedBlock(block, token).ConfigureAwait(false)
-                : await ReadDecryptedBlock(block, token).ConfigureAwait(false);
+            return await ReadEncryptedBlock(baseBlock, block, init, token).ConfigureAwait(false);
         }
 
         public async Task<bool> WriteBlock(object data, DataBlock block, CancellationToken token, object? toExpect = default)
@@ -604,19 +608,25 @@ namespace SysBot.Pokemon.SV
             return true;
         }
 
-        private async Task<object?> ReadEncryptedBlock(DataBlock block, CancellationToken token)
+        private async Task<byte[]> ReadEncryptedBlock(ulong baseBlock, DataBlock block, bool init, CancellationToken token)
         {
-            return block.Type switch
+            if (init)
             {
-                SCTypeCode.Object => await ReadEncryptedBlockObject(block, token).ConfigureAwait(false),
-                SCTypeCode.Array => await ReadEncryptedBlockArray(block, token).ConfigureAwait(false),
-                SCTypeCode.Bool1 or SCTypeCode.Bool2 or SCTypeCode.Bool3 => await ReadEncryptedBlockBool(block, token).ConfigureAwait(false),
-                SCTypeCode.Byte or SCTypeCode.SByte => await ReadEncryptedBlockByte(block, token).ConfigureAwait(false),
-                SCTypeCode.UInt32 => await ReadEncryptedBlockUint(block, token).ConfigureAwait(false),
-                SCTypeCode.Int32 => await ReadEncryptedBlockInt32(block, token).ConfigureAwait(false),
-                _ => throw new NotSupportedException($"Block {block.Name} (Type {block.Type}) is currently not supported.")
-            };
+                var address = await SearchSaveKey(baseBlock, block.Key, token).ConfigureAwait(false);
+                address = BitConverter.ToUInt64(await SwitchConnection.ReadBytesAbsoluteAsync(address + 8, 0x8, token).ConfigureAwait(false), 0);
+                returnOfs = address;
+                Log($"Init Address found at {returnOfs}");
+            }
+
+            var header = await SwitchConnection.ReadBytesAbsoluteAsync(returnOfs, 5, token).ConfigureAwait(false);
+            header = DecryptBlock(block.Key, header);
+            var size = ReadUInt32LittleEndian(header.AsSpan()[1..]);
+            var data = await SwitchConnection.ReadBytesAbsoluteAsync(returnOfs, 5 + (int)size, token).ConfigureAwait(false);
+            var res = DecryptBlock(block.Key, data)[5..];
+
+            return res;
         }
+
 
         private async Task<byte[]?> ReadEncryptedBlockArray(DataBlock block, CancellationToken token)
         {

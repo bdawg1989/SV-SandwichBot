@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SysBot.Pokemon.Discord")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+240409171502")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+240409204339")]
 [assembly: System.Reflection.AssemblyProductAttribute("SysBot.Pokemon.Discord")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SysBot.Pokemon.Discord")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

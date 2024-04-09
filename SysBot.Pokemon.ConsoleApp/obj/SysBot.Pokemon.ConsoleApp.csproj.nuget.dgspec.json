@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Brand\\Source\\Repos\\Sandwich\\SysBot.Pokemon.ConsoleApp\\SysBot.Pokemon.ConsoleApp.csproj": {}
+    "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\SysBot.Pokemon.ConsoleApp\\SysBot.Pokemon.ConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Brand\\Source\\Repos\\Sandwich\\SysBot.Base\\SysBot.Base.csproj": {
+    "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\SysBot.Base\\SysBot.Base.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Brand\\Source\\Repos\\Sandwich\\SysBot.Base\\SysBot.Base.csproj",
+        "projectUniqueName": "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\SysBot.Base\\SysBot.Base.csproj",
         "projectName": "SysBot.Base",
-        "projectPath": "C:\\Users\\Brand\\Source\\Repos\\Sandwich\\SysBot.Base\\SysBot.Base.csproj",
+        "projectPath": "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\SysBot.Base\\SysBot.Base.csproj",
         "packagesPath": "C:\\Users\\Brand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Brand\\Source\\Repos\\Sandwich\\SysBot.Base\\obj\\",
+        "outputPath": "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\SysBot.Base\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -83,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
@@ -92,14 +92,14 @@
         }
       }
     },
-    "C:\\Users\\Brand\\Source\\Repos\\Sandwich\\SysBot.Pokemon.ConsoleApp\\SysBot.Pokemon.ConsoleApp.csproj": {
+    "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\SysBot.Pokemon.ConsoleApp\\SysBot.Pokemon.ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Brand\\Source\\Repos\\Sandwich\\SysBot.Pokemon.ConsoleApp\\SysBot.Pokemon.ConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\SysBot.Pokemon.ConsoleApp\\SysBot.Pokemon.ConsoleApp.csproj",
         "projectName": "SysBot.Pokemon.ConsoleApp",
-        "projectPath": "C:\\Users\\Brand\\Source\\Repos\\Sandwich\\SysBot.Pokemon.ConsoleApp\\SysBot.Pokemon.ConsoleApp.csproj",
+        "projectPath": "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\SysBot.Pokemon.ConsoleApp\\SysBot.Pokemon.ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\Brand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Brand\\Source\\Repos\\Sandwich\\SysBot.Pokemon.ConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\SysBot.Pokemon.ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -121,11 +121,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Brand\\Source\\Repos\\Sandwich\\SysBot.Pokemon.Discord\\SysBot.Pokemon.Discord.csproj": {
-                "projectPath": "C:\\Users\\Brand\\Source\\Repos\\Sandwich\\SysBot.Pokemon.Discord\\SysBot.Pokemon.Discord.csproj"
+              "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\SysBot.Pokemon.Discord\\SysBot.Pokemon.Discord.csproj": {
+                "projectPath": "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\SysBot.Pokemon.Discord\\SysBot.Pokemon.Discord.csproj"
               },
-              "C:\\Users\\Brand\\Source\\Repos\\Sandwich\\SysBot.Pokemon\\SysBot.Pokemon.csproj": {
-                "projectPath": "C:\\Users\\Brand\\Source\\Repos\\Sandwich\\SysBot.Pokemon\\SysBot.Pokemon.csproj"
+              "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\SysBot.Pokemon\\SysBot.Pokemon.csproj": {
+                "projectPath": "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\SysBot.Pokemon\\SysBot.Pokemon.csproj"
               }
             }
           }
@@ -170,7 +170,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
@@ -179,14 +179,14 @@
         }
       }
     },
-    "C:\\Users\\Brand\\Source\\Repos\\Sandwich\\SysBot.Pokemon.Discord\\SysBot.Pokemon.Discord.csproj": {
+    "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\SysBot.Pokemon.Discord\\SysBot.Pokemon.Discord.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Brand\\Source\\Repos\\Sandwich\\SysBot.Pokemon.Discord\\SysBot.Pokemon.Discord.csproj",
+        "projectUniqueName": "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\SysBot.Pokemon.Discord\\SysBot.Pokemon.Discord.csproj",
         "projectName": "SysBot.Pokemon.Discord",
-        "projectPath": "C:\\Users\\Brand\\Source\\Repos\\Sandwich\\SysBot.Pokemon.Discord\\SysBot.Pokemon.Discord.csproj",
+        "projectPath": "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\SysBot.Pokemon.Discord\\SysBot.Pokemon.Discord.csproj",
         "packagesPath": "C:\\Users\\Brand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Brand\\Source\\Repos\\Sandwich\\SysBot.Pokemon.Discord\\obj\\",
+        "outputPath": "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\SysBot.Pokemon.Discord\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -208,11 +208,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Brand\\Source\\Repos\\Sandwich\\SysBot.Base\\SysBot.Base.csproj": {
-                "projectPath": "C:\\Users\\Brand\\Source\\Repos\\Sandwich\\SysBot.Base\\SysBot.Base.csproj"
+              "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\SysBot.Base\\SysBot.Base.csproj": {
+                "projectPath": "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\SysBot.Base\\SysBot.Base.csproj"
               },
-              "C:\\Users\\Brand\\Source\\Repos\\Sandwich\\SysBot.Pokemon\\SysBot.Pokemon.csproj": {
-                "projectPath": "C:\\Users\\Brand\\Source\\Repos\\Sandwich\\SysBot.Pokemon\\SysBot.Pokemon.csproj"
+              "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\SysBot.Pokemon\\SysBot.Pokemon.csproj": {
+                "projectPath": "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\SysBot.Pokemon\\SysBot.Pokemon.csproj"
               }
             }
           }
@@ -269,7 +269,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
@@ -278,14 +278,14 @@
         }
       }
     },
-    "C:\\Users\\Brand\\Source\\Repos\\Sandwich\\SysBot.Pokemon\\SysBot.Pokemon.csproj": {
+    "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\SysBot.Pokemon\\SysBot.Pokemon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Brand\\Source\\Repos\\Sandwich\\SysBot.Pokemon\\SysBot.Pokemon.csproj",
+        "projectUniqueName": "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\SysBot.Pokemon\\SysBot.Pokemon.csproj",
         "projectName": "SysBot.Pokemon",
-        "projectPath": "C:\\Users\\Brand\\Source\\Repos\\Sandwich\\SysBot.Pokemon\\SysBot.Pokemon.csproj",
+        "projectPath": "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\SysBot.Pokemon\\SysBot.Pokemon.csproj",
         "packagesPath": "C:\\Users\\Brand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Brand\\Source\\Repos\\Sandwich\\SysBot.Pokemon\\obj\\",
+        "outputPath": "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\SysBot.Pokemon\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -307,8 +307,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Brand\\Source\\Repos\\Sandwich\\SysBot.Base\\SysBot.Base.csproj": {
-                "projectPath": "C:\\Users\\Brand\\Source\\Repos\\Sandwich\\SysBot.Base\\SysBot.Base.csproj"
+              "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\SysBot.Base\\SysBot.Base.csproj": {
+                "projectPath": "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\SysBot.Base\\SysBot.Base.csproj"
               }
             }
           }
@@ -379,7 +379,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

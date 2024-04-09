@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SysBot.Pokemon.ConsoleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+240409171503")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+240409204339")]
 [assembly: System.Reflection.AssemblyProductAttribute("SysBot.Pokemon.ConsoleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SysBot.Pokemon.ConsoleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

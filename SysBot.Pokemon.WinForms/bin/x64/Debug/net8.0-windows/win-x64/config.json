@@ -1,0 +1,123 @@
+{
+  "Mode": 4,
+  "Hub": {
+    "Timings": {
+      "ExtraTimeLoadOverworld": 3000,
+      "ExtraTimeInjectSeed": 0,
+      "ExtraTimeReturnHome": 0,
+      "ExtraTimeLoadPortal": 1000,
+      "ExtraTimeConnectOnline": 0,
+      "ReconnectAttempts": 30,
+      "ExtraReconnectDelay": 0,
+      "KeypressTime": 200,
+      "RestartGameSettings": {
+        "AvoidSystemUpdate": false,
+        "CheckGameDelay": false,
+        "ExtraTimeCheckGame": 200,
+        "CheckForDLC": false,
+        "ExtraTimeCheckDLC": 0,
+        "ExtraTimeLoadGame": 5000,
+        "ExtraTimeCloseGame": 0,
+        "ProfileSelectSettings": {
+          "ProfileSelectionRequired": true,
+          "ExtraTimeLoadProfile": 0
+        }
+      }
+    },
+    "BotName": "",
+    "ThemeOption": "Light Mode",
+    "RotatingSandwichSV": {
+      "ActiveSandwichs": [],
+      "SandwichSettings": {
+        "TotalSandwichsToHost": 0,
+        "RandomRotation": false,
+        "MysterySandwichs": false,
+        "DisableRequests": false,
+        "PrivateSandwichsEnabled": true,
+        "LimitRequests": 0,
+        "LimitRequestsTime": 0,
+        "LimitRequestMsg": "If you\u0027d like to bypass this limit, please [describe how to get the role].",
+        "BypassLimitRequests": {},
+        "DisableOverworldSpawns": true,
+        "TimeToWait": 90
+      },
+      "EmbedToggles": {
+        "SandwichEmbedDescription": [],
+        "IncludeCountdown": true,
+        "RequestEmbedTime": 30,
+        "TakeScreenshot": true,
+        "ScreenshotTiming": 1500,
+        "HideSandwichCode": false
+      },
+      "LobbyOptions": {
+        "LobbyMethod": 0,
+        "EmptySandwichLimit": 3,
+        "SkipSandwichLimit": 3,
+        "Action": 1,
+        "MashADelay": 3.5
+      },
+      "SandwicherBanList": {
+        "List": [],
+        "AllowIfEmpty": false
+      },
+      "MiscSettings": {
+        "ScreenOff": false,
+        "CompletedSandwichs": 0,
+        "EmitCountsOnStatusCheck": false
+      },
+      "ScreenOff": false
+    },
+    "Discord": {
+      "Token": "",
+      "CommandPrefix": "$",
+      "AsyncCommands": false,
+      "BotGameStatus": "Hosting S/V Sandwichs",
+      "HelloResponse": "Hello, {0}!  I\u0027m online!",
+      "RoleSandwichRequest": {
+        "List": [],
+        "AllowIfEmpty": false
+      },
+      "RoleRemoteControl": {
+        "List": [],
+        "AllowIfEmpty": false
+      },
+      "RoleSudo": {
+        "List": [],
+        "AllowIfEmpty": false
+      },
+      "UserBlacklist": {
+        "List": [],
+        "AllowIfEmpty": true
+      },
+      "ChannelWhitelist": {
+        "List": [],
+        "AllowIfEmpty": true
+      },
+      "GlobalSudoList": {
+        "List": [],
+        "AllowIfEmpty": true
+      },
+      "AllowGlobalSudo": true,
+      "LoggingChannels": {
+        "List": [],
+        "AllowIfEmpty": true
+      },
+      "EchoChannels": {
+        "List": [],
+        "AllowIfEmpty": true
+      },
+      "AnnouncementSettings": {
+        "AnnouncementThumbnailOption": 0,
+        "CustomAnnouncementThumbnailUrl": "",
+        "AnnouncementEmbedColor": 0,
+        "RandomAnnouncementThumbnail": false,
+        "RandomAnnouncementColor": false
+      }
+    },
+    "AntiIdle": false,
+    "LoggingEnabled": true,
+    "MaxArchiveFiles": 14,
+    "SkipConsoleBotCreation": false
+  },
+  "Bots": []
+}

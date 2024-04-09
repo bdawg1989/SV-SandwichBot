@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4BE4124-C1CF-4A81-AA7C-DE96A169CF1D}|SysBot.Pokemon.Discord\\SysBot.Pokemon.Discord.csproj|c:\\users\\brand\\source\\repos\\sv-sandwichbot\\sysbot.pokemon.discord\\commands\\bots\\raidmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4BE4124-C1CF-4A81-AA7C-DE96A169CF1D}|SysBot.Pokemon.Discord\\SysBot.Pokemon.Discord.csproj|solutionrelative:sysbot.pokemon.discord\\commands\\bots\\raidmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B520A84-74AF-40EC-9B10-A9FCF950D02E}|SysBot.Pokemon\\SysBot.Pokemon.csproj|C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\sysbot.pokemon\\sv\\pokeroutineexecutor9sv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B520A84-74AF-40EC-9B10-A9FCF950D02E}|SysBot.Pokemon\\SysBot.Pokemon.csproj|solutionrelative:sysbot.pokemon\\sv\\pokeroutineexecutor9sv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B520A84-74AF-40EC-9B10-A9FCF950D02E}|SysBot.Pokemon\\SysBot.Pokemon.csproj|C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\sysbot.pokemon\\settings\\stopconditionsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B520A84-74AF-40EC-9B10-A9FCF950D02E}|SysBot.Pokemon\\SysBot.Pokemon.csproj|solutionrelative:sysbot.pokemon\\settings\\stopconditionsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B520A84-74AF-40EC-9B10-A9FCF950D02E}|SysBot.Pokemon\\SysBot.Pokemon.csproj|C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\sysbot.pokemon\\sv\\botsandwich\\rotatingsandwichbotsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B520A84-74AF-40EC-9B10-A9FCF950D02E}|SysBot.Pokemon\\SysBot.Pokemon.csproj|solutionrelative:sysbot.pokemon\\sv\\botsandwich\\rotatingsandwichbotsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B520A84-74AF-40EC-9B10-A9FCF950D02E}|SysBot.Pokemon\\SysBot.Pokemon.csproj|C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\sysbot.pokemon\\sv\\botfactory9sv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B520A84-74AF-40EC-9B10-A9FCF950D02E}|SysBot.Pokemon\\SysBot.Pokemon.csproj|solutionrelative:sysbot.pokemon\\sv\\botfactory9sv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B520A84-74AF-40EC-9B10-A9FCF950D02E}|SysBot.Pokemon\\SysBot.Pokemon.csproj|C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\sysbot.pokemon\\sv\\botsandwich\\rotatingsandwichsettingssv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B520A84-74AF-40EC-9B10-A9FCF950D02E}|SysBot.Pokemon\\SysBot.Pokemon.csproj|solutionrelative:sysbot.pokemon\\sv\\botsandwich\\rotatingsandwichsettingssv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B520A84-74AF-40EC-9B10-A9FCF950D02E}|SysBot.Pokemon\\SysBot.Pokemon.csproj|C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\sysbot.pokemon\\sandwichhub\\poketradehubconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B520A84-74AF-40EC-9B10-A9FCF950D02E}|SysBot.Pokemon\\SysBot.Pokemon.csproj|solutionrelative:sysbot.pokemon\\sandwichhub\\poketradehubconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B520A84-74AF-40EC-9B10-A9FCF950D02E}|SysBot.Pokemon\\SysBot.Pokemon.csproj|C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\sysbot.pokemon\\sv\\vision\\pokedataoffsetssv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B520A84-74AF-40EC-9B10-A9FCF950D02E}|SysBot.Pokemon\\SysBot.Pokemon.csproj|solutionrelative:sysbot.pokemon\\sv\\vision\\pokedataoffsetssv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B520A84-74AF-40EC-9B10-A9FCF950D02E}|SysBot.Pokemon\\SysBot.Pokemon.csproj|C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\sysbot.pokemon\\sv\\botsandwich\\blockutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B520A84-74AF-40EC-9B10-A9FCF950D02E}|SysBot.Pokemon\\SysBot.Pokemon.csproj|solutionrelative:sysbot.pokemon\\sv\\botsandwich\\blockutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B520A84-74AF-40EC-9B10-A9FCF950D02E}|SysBot.Pokemon\\SysBot.Pokemon.csproj|C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\sysbot.pokemon\\helpers\\helperenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B520A84-74AF-40EC-9B10-A9FCF950D02E}|SysBot.Pokemon\\SysBot.Pokemon.csproj|solutionrelative:sysbot.pokemon\\helpers\\helperenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RaidModule.cs",
+              "DocumentMoniker": "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\SysBot.Pokemon.Discord\\Commands\\Bots\\RaidModule.cs",
+              "RelativeDocumentMoniker": "SysBot.Pokemon.Discord\\Commands\\Bots\\RaidModule.cs",
+              "ToolTip": "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\SysBot.Pokemon.Discord\\Commands\\Bots\\RaidModule.cs",
+              "RelativeToolTip": "SysBot.Pokemon.Discord\\Commands\\Bots\\RaidModule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T20:03:33.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BotFactory9SV.cs",
+              "DocumentMoniker": "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\SysBot.Pokemon\\SV\\BotFactory9SV.cs",
+              "RelativeDocumentMoniker": "SysBot.Pokemon\\SV\\BotFactory9SV.cs",
+              "ToolTip": "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\SysBot.Pokemon\\SV\\BotFactory9SV.cs",
+              "RelativeToolTip": "SysBot.Pokemon\\SV\\BotFactory9SV.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T20:02:15.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StopConditionSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\SysBot.Pokemon\\Settings\\StopConditionSettings.cs",
+              "RelativeDocumentMoniker": "SysBot.Pokemon\\Settings\\StopConditionSettings.cs",
+              "ToolTip": "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\SysBot.Pokemon\\Settings\\StopConditionSettings.cs",
+              "RelativeToolTip": "SysBot.Pokemon\\Settings\\StopConditionSettings.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAUwEQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T19:59:31.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BlockUtil.cs",
+              "DocumentMoniker": "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\SysBot.Pokemon\\SV\\BotSandwich\\BlockUtil.cs",
+              "RelativeDocumentMoniker": "SysBot.Pokemon\\SV\\BotSandwich\\BlockUtil.cs",
+              "ToolTip": "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\SysBot.Pokemon\\SV\\BotSandwich\\BlockUtil.cs",
+              "RelativeToolTip": "SysBot.Pokemon\\SV\\BotSandwich\\BlockUtil.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAtwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T19:53:55.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PokeRoutineExecutor9SV.cs",
+              "DocumentMoniker": "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\SysBot.Pokemon\\SV\\PokeRoutineExecutor9SV.cs",
+              "RelativeDocumentMoniker": "SysBot.Pokemon\\SV\\PokeRoutineExecutor9SV.cs",
+              "ToolTip": "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\SysBot.Pokemon\\SV\\PokeRoutineExecutor9SV.cs",
+              "RelativeToolTip": "SysBot.Pokemon\\SV\\PokeRoutineExecutor9SV.cs",
+              "ViewState": "AQIAAEICAAAAAAAAAAAowHQCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T19:50:11.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PokeDataOffsetsSV.cs",
+              "DocumentMoniker": "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\SysBot.Pokemon\\SV\\Vision\\PokeDataOffsetsSV.cs",
+              "RelativeDocumentMoniker": "SysBot.Pokemon\\SV\\Vision\\PokeDataOffsetsSV.cs",
+              "ToolTip": "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\SysBot.Pokemon\\SV\\Vision\\PokeDataOffsetsSV.cs",
+              "RelativeToolTip": "SysBot.Pokemon\\SV\\Vision\\PokeDataOffsetsSV.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAIwBYAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T19:48:31.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PokeTradeHubConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\SysBot.Pokemon\\SandwichHub\\PokeTradeHubConfig.cs",
+              "RelativeDocumentMoniker": "SysBot.Pokemon\\SandwichHub\\PokeTradeHubConfig.cs",
+              "ToolTip": "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\SysBot.Pokemon\\SandwichHub\\PokeTradeHubConfig.cs",
+              "RelativeToolTip": "SysBot.Pokemon\\SandwichHub\\PokeTradeHubConfig.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAnwBwAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T19:40:58.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HelperEnums.cs",
+              "DocumentMoniker": "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\SysBot.Pokemon\\Helpers\\HelperEnums.cs",
+              "RelativeDocumentMoniker": "SysBot.Pokemon\\Helpers\\HelperEnums.cs",
+              "ToolTip": "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\SysBot.Pokemon\\Helpers\\HelperEnums.cs",
+              "RelativeToolTip": "SysBot.Pokemon\\Helpers\\HelperEnums.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T19:37:38.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RotatingSandwichSettingsSV.cs",
+              "DocumentMoniker": "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\SysBot.Pokemon\\SV\\BotSandwich\\RotatingSandwichSettingsSV.cs",
+              "RelativeDocumentMoniker": "SysBot.Pokemon\\SV\\BotSandwich\\RotatingSandwichSettingsSV.cs",
+              "ToolTip": "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\SysBot.Pokemon\\SV\\BotSandwich\\RotatingSandwichSettingsSV.cs",
+              "RelativeToolTip": "SysBot.Pokemon\\SV\\BotSandwich\\RotatingSandwichSettingsSV.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAmwEIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T19:30:05.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RotatingSandwichBotSV.cs",
+              "DocumentMoniker": "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\SysBot.Pokemon\\SV\\BotSandwich\\RotatingSandwichBotSV.cs",
+              "RelativeDocumentMoniker": "SysBot.Pokemon\\SV\\BotSandwich\\RotatingSandwichBotSV.cs",
+              "ToolTip": "C:\\Users\\Brand\\source\\repos\\SV-SandwichBot\\SysBot.Pokemon\\SV\\BotSandwich\\RotatingSandwichBotSV.cs",
+              "RelativeToolTip": "SysBot.Pokemon\\SV\\BotSandwich\\RotatingSandwichBotSV.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAtwDIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T19:25:02.981Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

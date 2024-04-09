@@ -24,6 +24,11 @@ namespace SysBot.Pokemon
         [TypeConverter(typeof(ExpandableObjectConverter))]
         public RotatingSandwichSettingsSV RotatingSandwichSV { get; set; } = new();
 
+        [Category(BotSandwich), Description("Stop conditions for EggBot, FossilBot, and EncounterBot.")]
+        [TypeConverter(typeof(ExpandableObjectConverter))]
+        public StopConditionSettings StopConditions { get; set; } = new();
+
+
         // Integration
 
         [Category(Integration)]
